@@ -1,0 +1,10 @@
+In this file, I(Aayush) have stored my assets. This asset is just a simple cube. It 
+has a .prefab extention (for the cube prefab) and a .meta extention, which Unity
+keeps when dealing with import/export.
+
+HOW TO IMPORT THE CUBE TO YOUR PROJECT: 
+
+Take both the Cube.prefab and Cube.prefab.meta, copy them, and paste(or drag and 
+drop to your project), and voila! You have the same cube in your project as I have 
+in mine. 
+Thats it.
